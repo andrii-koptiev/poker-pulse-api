@@ -1,0 +1,93 @@
+[
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-15T12:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "WPT Five Diamond Main Event",
+        "event_type": "Daily",
+        "game_type": "NLHE",
+        "buy_in": 10000,
+        "rake_percentage": 4,
+        "currency": "$",
+        "blind_levels": 60,
+        "guarantee": 2000000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-16T14:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "High Roller Event",
+        "event_type": "Daily",
+        "game_type": "NLHE",
+        "buy_in": 25000,
+        "rake_percentage": 4,
+        "currency": "$",
+        "blind_levels": 40,
+        "guarantee": 1000000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-17T12:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "Deepstack Event",
+        "event_type": "Daily",
+        "game_type": "NLHE",
+        "buy_in": 1500,
+        "rake_percentage": 13.3,
+        "currency": "$",
+        "blind_levels": 30,
+        "guarantee": 500000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-18T15:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "Super Turbo Bounty",
+        "event_type": "Daily",
+        "game_type": "NLHE",
+        "buy_in": 3000,
+        "rake_percentage": 10,
+        "currency": "$",
+        "blind_levels": 20,
+        "guarantee": 100000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-19T12:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "Pot-Limit Omaha",
+        "event_type": "Daily",
+        "game_type": "Omaha Hi",
+        "buy_in": 5000,
+        "rake_percentage": 6,
+        "currency": "$",
+        "blind_levels": 40,
+        "guarantee": 200000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-20T12:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "Closer Event",
+        "event_type": "Daily",
+        "game_type": "NLHE",
+        "buy_in": 2200,
+        "rake_percentage": 10,
+        "currency": "$",
+        "blind_levels": 30,
+        "guarantee": 300000
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "date_time": "2024-12-14T18:00:00",
+        "casino": "Bellagio, Las Vegas, Nevada",
+        "tournament_name": "Main Event Satellite",
+        "event_type": "Satellite",
+        "game_type": "NLHE",
+        "buy_in": 1100,
+        "rake_percentage": 10,
+        "currency": "$",
+        "blind_levels": 20,
+        "guarantee": 0
+    }
+]

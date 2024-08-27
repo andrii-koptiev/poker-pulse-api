@@ -1,0 +1,590 @@
+[
+    {
+        "series_name": "WSOP Circuit - Las Vegas",
+        "start_date": "2024-09-01",
+        "end_date": "2024-09-15",
+        "location": "United States, Las Vegas, Nevada",
+        "link": "https://www.wsop.com/2024-circuit/las-vegas"
+    },
+    {
+        "series_name": "WPT Five Diamond World Poker Classic",
+        "start_date": "2024-12-15",
+        "end_date": "2024-12-20",
+        "location": "United States, Las Vegas, Nevada",
+        "link": "https://www.worldpokertour.com/2024/five-diamond"
+    },
+    {
+        "series_name": "WSOP Circuit - New Orleans",
+        "start_date": "2024-11-10",
+        "end_date": "2024-11-24",
+        "location": "United States, New Orleans, Louisiana",
+        "link": "https://www.wsop.com/2024-circuit/new-orleans"
+    },
+    {
+        "series_name": "WPT Seminole Hard Rock Poker Showdown",
+        "start_date": "2024-04-15",
+        "end_date": "2024-04-30",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.worldpokertour.com/2024/seminole-hard-rock-poker-showdown"
+    },
+    {
+        "series_name": "WSOP Circuit - Cherokee",
+        "start_date": "2024-10-01",
+        "end_date": "2024-10-10",
+        "location": "United States, Cherokee, North Carolina",
+        "link": "https://www.wsop.com/2024-circuit/cherokee"
+    },
+    {
+        "series_name": "MSPT Grand Falls",
+        "start_date": "2024-09-05",
+        "end_date": "2024-09-10",
+        "location": "United States, Larchwood, Iowa",
+        "link": "https://msptpoker.com/2024/grand-falls"
+    },
+    {
+        "series_name": "WPT L.A. Poker Classic",
+        "start_date": "2024-02-22",
+        "end_date": "2024-03-01",
+        "location": "United States, Los Angeles, California",
+        "link": "https://www.worldpokertour.com/2024/lapc"
+    },
+    {
+        "series_name": "RunGood Poker Series - Jamul",
+        "start_date": "2024-08-15",
+        "end_date": "2024-08-20",
+        "location": "United States, San Diego, California",
+        "link": "https://rungood.com/2024/jamul"
+    },
+    {
+        "series_name": "WSOP Circuit - Hammond",
+        "start_date": "2024-09-28",
+        "end_date": "2024-10-10",
+        "location": "United States, Hammond, Indiana",
+        "link": "https://www.wsop.com/2024-circuit/hammond"
+    },
+    {
+        "series_name": "WPT Rolling Thunder",
+        "start_date": "2024-03-05",
+        "end_date": "2024-03-15",
+        "location": "United States, Lincoln, California",
+        "link": "https://www.worldpokertour.com/2024/rolling-thunder"
+    },
+    {
+        "series_name": "WSOP Circuit - Atlantic City",
+        "start_date": "2024-11-12",
+        "end_date": "2024-11-22",
+        "location": "United States, Atlantic City, New Jersey",
+        "link": "https://www.wsop.com/2024-circuit/atlantic-city"
+    },
+    {
+        "series_name": "WPT Borgata Winter Poker Open",
+        "start_date": "2024-01-15",
+        "end_date": "2024-01-31",
+        "location": "United States, Atlantic City, New Jersey",
+        "link": "https://www.worldpokertour.com/2024/borgata-winter-poker-open"
+    },
+    {
+        "series_name": "WSOP Circuit - Foxwoods",
+        "start_date": "2024-10-10",
+        "end_date": "2024-10-20",
+        "location": "United States, Mashantucket, Connecticut",
+        "link": "https://www.wsop.com/2024-circuit/foxwoods"
+    },
+    {
+        "series_name": "RunGood Poker Series - Tulsa",
+        "start_date": "2024-09-12",
+        "end_date": "2024-09-18",
+        "location": "United States, Tulsa, Oklahoma",
+        "link": "https://rungood.com/2024/tulsa"
+    },
+    {
+        "series_name": "WPT Gardens Poker Championship",
+        "start_date": "2024-01-10",
+        "end_date": "2024-01-19",
+        "location": "United States, Hawaiian Gardens, California",
+        "link": "https://www.worldpokertour.com/2024/gardens-poker-championship"
+    },
+    {
+        "series_name": "WSOP Circuit - Choctaw",
+        "start_date": "2024-08-01",
+        "end_date": "2024-08-15",
+        "location": "United States, Durant, Oklahoma",
+        "link": "https://www.wsop.com/2024-circuit/choctaw"
+    },
+    {
+        "series_name": "WPT Lucky Hearts Poker Open",
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-24",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.worldpokertour.com/2024/lucky-hearts-poker-open"
+    },
+    {
+        "series_name": "RunGood Poker Series - Bossier City",
+        "start_date": "2024-10-20",
+        "end_date": "2024-10-25",
+        "location": "United States, Bossier City, Louisiana",
+        "link": "https://rungood.com/2024/bossier-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Lake Tahoe",
+        "start_date": "2024-11-01",
+        "end_date": "2024-11-12",
+        "location": "United States, Stateline, Nevada",
+        "link": "https://www.wsop.com/2024-circuit/lake-tahoe"
+    },
+    {
+        "series_name": "WPT DeepStacks Thunder Valley",
+        "start_date": "2024-12-01",
+        "end_date": "2024-12-10",
+        "location": "United States, Lincoln, California",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-thunder-valley"
+    },
+    {
+        "series_name": "WSOP Circuit - Harrah's New Orleans",
+        "start_date": "2024-11-30",
+        "end_date": "2024-12-10",
+        "location": "United States, New Orleans, Louisiana",
+        "link": "https://www.wsop.com/2024-circuit/harrahs-new-orleans"
+    },
+    {
+        "series_name": "MSPT Venetian Las Vegas",
+        "start_date": "2024-11-22",
+        "end_date": "2024-11-28",
+        "location": "United States, Las Vegas, Nevada",
+        "link": "https://msptpoker.com/2024/venetian-las-vegas"
+    },
+    {
+        "series_name": "WPT Montreal",
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-25",
+        "location": "United States, Montreal, Quebec",
+        "link": "https://www.worldpokertour.com/2024/montreal"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Council Bluffs",
+        "start_date": "2024-08-30",
+        "end_date": "2024-09-07",
+        "location": "United States, Council Bluffs, Iowa",
+        "link": "https://rungood.com/2024/horseshoe-council-bluffs"
+    },
+    {
+        "series_name": "WSOP Circuit - Harvey's Lake Tahoe",
+        "start_date": "2024-09-25",
+        "end_date": "2024-10-02",
+        "location": "United States, Stateline, Nevada",
+        "link": "https://www.wsop.com/2024-circuit/harveys-lake-tahoe"
+    },
+    {
+        "series_name": "WPT DeepStacks Maryland Live!",
+        "start_date": "2024-10-03",
+        "end_date": "2024-10-11",
+        "location": "United States, Hanover, Maryland",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-maryland-live"
+    },
+    {
+        "series_name": "RunGood Poker Series - Downstream",
+        "start_date": "2024-11-06",
+        "end_date": "2024-11-12",
+        "location": "United States, Quapaw, Oklahoma",
+        "link": "https://rungood.com/2024/downstream"
+    },
+    {
+        "series_name": "WSOP Circuit - Tunica",
+        "start_date": "2024-08-20",
+        "end_date": "2024-08-30",
+        "location": "United States, Tunica, Mississippi",
+        "link": "https://www.wsop.com/2024-circuit/tunica"
+    },
+    {
+        "series_name": "WPT DeepStacks Immokalee",
+        "start_date": "2024-05-15",
+        "end_date": "2024-05-20",
+        "location": "United States, Immokalee, Florida",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-immokalee"
+    },
+    {
+        "series_name": "RunGood Poker Series - Grand Casino",
+        "start_date": "2024-09-19",
+        "end_date": "2024-09-24",
+        "location": "United States, Shawnee, Oklahoma",
+        "link": "https://rungood.com/2024/grand-casino"
+    },
+    {
+        "series_name": "WSOP Circuit - IP Biloxi",
+        "start_date": "2024-09-01",
+        "end_date": "2024-09-10",
+        "location": "United States, Biloxi, Mississippi",
+        "link": "https://www.wsop.com/2024-circuit/ip-biloxi"
+    },
+    {
+        "series_name": "WPT DeepStacks Big Stax",
+        "start_date": "2024-09-25",
+        "end_date": "2024-10-05",
+        "location": "United States, Bensalem, Pennsylvania",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-big-stax"
+    },
+    {
+        "series_name": "RunGood Poker Series - Hard Rock Tulsa",
+        "start_date": "2024-10-10",
+        "end_date": "2024-10-17",
+        "location": "United States, Tulsa, Oklahoma",
+        "link": "https://rungood.com/2024/hard-rock-tulsa"
+    },
+    {
+        "series_name": "WSOP Circuit - Harrah's Cherokee",
+        "start_date": "2024-11-01",
+        "end_date": "2024-11-12",
+        "location": "United States, Cherokee, North Carolina",
+        "link": "https://www.wsop.com/2024-circuit/harrahs-cherokee"
+    },
+    {
+        "series_name": "WPT DeepStacks Central California",
+        "start_date": "2024-10-17",
+        "end_date": "2024-10-26",
+        "location": "United States, Fresno, California",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-central-california"
+    },
+    {
+        "series_name": "RunGood Poker Series - Kansas City",
+        "start_date": "2024-08-10",
+        "end_date": "2024-08-15",
+        "location": "United States, Kansas City, Missouri",
+        "link": "https://rungood.com/2024/kansas-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Horseshoe Hammond",
+        "start_date": "2024-09-10",
+        "end_date": "2024-09-20",
+        "location": "United States, Hammond, Indiana",
+        "link": "https://www.wsop.com/2024-circuit/horseshoe-hammond"
+    },
+    {
+        "series_name": "WPT DeepStacks Mississippi",
+        "start_date": "2024-09-15",
+        "end_date": "2024-09-24",
+        "location": "United States, Biloxi, Mississippi",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-mississippi"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Tunica",
+        "start_date": "2024-10-01",
+        "end_date": "2024-10-08",
+        "location": "United States, Tunica, Mississippi",
+        "link": "https://rungood.com/2024/horseshoe-tunica"
+    },
+    {
+        "series_name": "WSOP Circuit - Planet Hollywood",
+        "start_date": "2024-11-05",
+        "end_date": "2024-11-15",
+        "location": "United States, Las Vegas, Nevada",
+        "link": "https://www.wsop.com/2024-circuit/planet-hollywood"
+    },
+    {
+        "series_name": "WPT DeepStacks Jacksonville",
+        "start_date": "2024-11-02",
+        "end_date": "2024-11-11",
+        "location": "United States, Jacksonville, Florida",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-jacksonville"
+    },
+    {
+        "series_name": "RunGood Poker Series - Golden Gates",
+        "start_date": "2024-09-02",
+        "end_date": "2024-09-08",
+        "location": "United States, Black Hawk, Colorado",
+        "link": "https://rungood.com/2024/golden-gates"
+    },
+    {
+        "series_name": "WSOP Circuit - Horseshoe Baltimore",
+        "start_date": "2024-11-01",
+        "end_date": "2024-11-12",
+        "location": "United States, Baltimore, Maryland",
+        "link": "https://www.wsop.com/2024-circuit/horseshoe-baltimore"
+    },
+    {
+        "series_name": "WPT DeepStacks Northern California",
+        "start_date": "2024-08-24",
+        "end_date": "2024-09-02",
+        "location": "United States, Sacramento, California",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-northern-california"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Bossier City",
+        "start_date": "2024-12-10",
+        "end_date": "2024-12-15",
+        "location": "United States, Bossier City, Louisiana",
+        "link": "https://rungood.com/2024/horseshoe-bossier-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Palm Beach Kennel Club",
+        "start_date": "2024-10-18",
+        "end_date": "2024-10-28",
+        "location": "United States, West Palm Beach, Florida",
+        "link": "https://www.wsop.com/2024-circuit/palm-beach-kennel-club"
+    },
+    {
+        "series_name": "WPT DeepStacks Big Stax",
+        "start_date": "2024-10-12",
+        "end_date": "2024-10-20",
+        "location": "United States, Bensalem, Pennsylvania",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-big-stax"
+    },
+    {
+        "series_name": "RunGood Poker Series - Harrah's Cherokee",
+        "start_date": "2024-09-14",
+        "end_date": "2024-09-20",
+        "location": "United States, Cherokee, North Carolina",
+        "link": "https://rungood.com/2024/harrahs-cherokee"
+    },
+    {
+        "series_name": "WSOP Circuit - Seminole Hard Rock",
+        "start_date": "2024-12-05",
+        "end_date": "2024-12-15",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.wsop.com/2024-circuit/seminole-hard-rock"
+    },
+    {
+        "series_name": "WPT DeepStacks Gold Coast",
+        "start_date": "2024-11-20",
+        "end_date": "2024-11-29",
+        "location": "United States, Gold Coast, Queensland",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-gold-coast"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Southern Indiana",
+        "start_date": "2024-10-12",
+        "end_date": "2024-10-18",
+        "location": "United States, Elizabeth, Indiana",
+        "link": "https://rungood.com/2024/horseshoe-southern-indiana"
+    },
+    {
+        "series_name": "WSOP Circuit - Thunder Valley",
+        "start_date": "2024-10-22",
+        "end_date": "2024-10-31",
+        "location": "United States, Lincoln, California",
+        "link": "https://www.wsop.com/2024-circuit/thunder-valley"
+    },
+    {
+        "series_name": "WPT DeepStacks Central California",
+        "start_date": "2024-09-15",
+        "end_date": "2024-09-22",
+        "location": "United States, Fresno, California",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-central-california"
+    },
+    {
+        "series_name": "RunGood Poker Series - Harrah's North Kansas City",
+        "start_date": "2024-11-08",
+        "end_date": "2024-11-14",
+        "location": "United States, Kansas City, Missouri",
+        "link": "https://rungood.com/2024/harrahs-north-kansas-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Seminole Coconut Creek",
+        "start_date": "2024-09-22",
+        "end_date": "2024-10-02",
+        "location": "United States, Coconut Creek, Florida",
+        "link": "https://www.wsop.com/2024-circuit/seminole-coconut-creek"
+    },
+    {
+        "series_name": "WPT DeepStacks South Florida",
+        "start_date": "2024-10-10",
+        "end_date": "2024-10-20",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-south-florida"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Kansas City",
+        "start_date": "2024-09-28",
+        "end_date": "2024-10-04",
+        "location": "United States, Kansas City, Missouri",
+        "link": "https://rungood.com/2024/horseshoe-kansas-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Horseshoe Hammond",
+        "start_date": "2024-11-10",
+        "end_date": "2024-11-20",
+        "location": "United States, Hammond, Indiana",
+        "link": "https://www.wsop.com/2024-circuit/horseshoe-hammond"
+    },
+    {
+        "series_name": "WPT DeepStacks Texas",
+        "start_date": "2024-12-10",
+        "end_date": "2024-12-18",
+        "location": "United States, Houston, Texas",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-texas"
+    },
+    {
+        "series_name": "RunGood Poker Series - Harrah's Council Bluffs",
+        "start_date": "2024-11-15",
+        "end_date": "2024-11-21",
+        "location": "United States, Council Bluffs, Iowa",
+        "link": "https://rungood.com/2024/harrahs-council-bluffs"
+    },
+    {
+        "series_name": "WSOP Circuit - IP Biloxi",
+        "start_date": "2024-09-22",
+        "end_date": "2024-10-02",
+        "location": "United States, Biloxi, Mississippi",
+        "link": "https://www.wsop.com/2024-circuit/ip-biloxi"
+    },
+    {
+        "series_name": "WPT DeepStacks Seattle",
+        "start_date": "2024-08-21",
+        "end_date": "2024-08-30",
+        "location": "United States, Seattle, Washington",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-seattle"
+    },
+    {
+        "series_name": "RunGood Poker Series - FireKeepers",
+        "start_date": "2024-09-25",
+        "end_date": "2024-10-03",
+        "location": "United States, Battle Creek, Michigan",
+        "link": "https://rungood.com/2024/firekeepers"
+    },
+    {
+        "series_name": "WSOP Circuit - Horseshoe Bossier City",
+        "start_date": "2024-08-12",
+        "end_date": "2024-08-21",
+        "location": "United States, Bossier City, Louisiana",
+        "link": "https://www.wsop.com/2024-circuit/horseshoe-bossier-city"
+    },
+    {
+        "series_name": "WPT DeepStacks Southern California",
+        "start_date": "2024-12-01",
+        "end_date": "2024-12-10",
+        "location": "United States, San Diego, California",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-southern-california"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Tunica",
+        "start_date": "2024-08-14",
+        "end_date": "2024-08-20",
+        "location": "United States, Tunica, Mississippi",
+        "link": "https://rungood.com/2024/horseshoe-tunica"
+    },
+    {
+        "series_name": "WSOP Circuit - Harrah's Las Vegas",
+        "start_date": "2024-10-01",
+        "end_date": "2024-10-10",
+        "location": "United States, Las Vegas, Nevada",
+        "link": "https://www.wsop.com/2024-circuit/harrahs-las-vegas"
+    },
+    {
+        "series_name": "WPT DeepStacks Portland",
+        "start_date": "2024-09-12",
+        "end_date": "2024-09-21",
+        "location": "United States, Portland, Oregon",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-portland"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Hammond",
+        "start_date": "2024-12-05",
+        "end_date": "2024-12-12",
+        "location": "United States, Hammond, Indiana",
+        "link": "https://rungood.com/2024/horseshoe-hammond"
+    },
+    {
+        "series_name": "WSOP Circuit - Harrah's Cherokee",
+        "start_date": "2024-09-12",
+        "end_date": "2024-09-22",
+        "location": "United States, Cherokee, North Carolina",
+        "link": "https://www.wsop.com/2024-circuit/harrahs-cherokee"
+    },
+    {
+        "series_name": "WPT DeepStacks Atlantic City",
+        "start_date": "2024-10-20",
+        "end_date": "2024-10-30",
+        "location": "United States, Atlantic City, New Jersey",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-atlantic-city"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Bossier City",
+        "start_date": "2024-08-01",
+        "end_date": "2024-08-07",
+        "location": "United States, Bossier City, Louisiana",
+        "link": "https://rungood.com/2024/horseshoe-bossier-city"
+    },
+    {
+        "series_name": "WSOP Circuit - Bicycle Casino",
+        "start_date": "2024-10-25",
+        "end_date": "2024-11-05",
+        "location": "United States, Bell Gardens, California",
+        "link": "https://www.wsop.com/2024-circuit/bicycle-casino"
+    },
+    {
+        "series_name": "WPT DeepStacks South Florida",
+        "start_date": "2024-11-10",
+        "end_date": "2024-11-19",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-south-florida"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Council Bluffs",
+        "start_date": "2024-10-02",
+        "end_date": "2024-10-10",
+        "location": "United States, Council Bluffs, Iowa",
+        "link": "https://rungood.com/2024/horseshoe-council-bluffs"
+    },
+    {
+        "series_name": "WSOP Circuit - Horseshoe Bossier City",
+        "start_date": "2024-11-10",
+        "end_date": "2024-11-20",
+        "location": "United States, Bossier City, Louisiana",
+        "link": "https://www.wsop.com/2024-circuit/horseshoe-bossier-city"
+    },
+    {
+        "series_name": "WPT DeepStacks Black Hawk",
+        "start_date": "2024-08-15",
+        "end_date": "2024-08-22",
+        "location": "United States, Black Hawk, Colorado",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-black-hawk"
+    },
+    {
+        "series_name": "RunGood Poker Series - Golden Gates",
+        "start_date": "2024-10-20",
+        "end_date": "2024-10-28",
+        "location": "United States, Black Hawk, Colorado",
+        "link": "https://rungood.com/2024/golden-gates"
+    },
+    {
+        "series_name": "WSOP Circuit - Seminole Hard Rock",
+        "start_date": "2024-09-20",
+        "end_date": "2024-09-30",
+        "location": "United States, Hollywood, Florida",
+        "link": "https://www.wsop.com/2024-circuit/seminole-hard-rock"
+    },
+    {
+        "series_name": "WPT DeepStacks Big Stax",
+        "start_date": "2024-12-02",
+        "end_date": "2024-12-10",
+        "location": "United States, Bensalem, Pennsylvania",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-big-stax"
+    },
+    {
+        "series_name": "RunGood Poker Series - Harrah's Southern California",
+        "start_date": "2024-12-01",
+        "end_date": "2024-12-07",
+        "location": "United States, Valley Center, California",
+        "link": "https://rungood.com/2024/harrahs-southern-california"
+    },
+    {
+        "series_name": "WSOP Circuit - Harrah's Philadelphia",
+        "start_date": "2024-08-10",
+        "end_date": "2024-08-19",
+        "location": "United States, Chester, Pennsylvania",
+        "link": "https://www.wsop.com/2024-circuit/harrahs-philadelphia"
+    },
+    {
+        "series_name": "WPT DeepStacks Palm Beach",
+        "start_date": "2024-09-05",
+        "end_date": "2024-09-14",
+        "location": "United States, West Palm Beach, Florida",
+        "link": "https://www.worldpokertour.com/2024/deepstacks-palm-beach"
+    },
+    {
+        "series_name": "RunGood Poker Series - Horseshoe Southern Indiana",
+        "start_date": "2024-11-01",
+        "end_date": "2024-11-07",
+        "location": "United States, Elizabeth, Indiana",
+        "link": "https://rungood.com/2024/horseshoe-southern-indiana"
+    }
+]
